@@ -4,7 +4,8 @@ description: Design exceptional customer experiences by imagining progressively 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3889
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - eleven-star-experience-design
